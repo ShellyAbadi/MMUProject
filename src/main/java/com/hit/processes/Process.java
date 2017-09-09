@@ -5,16 +5,17 @@ import java.util.concurrent.Callable;
 import com.hit.memoryunits.MemoryManagementUnit;
 
 public class Process implements Callable<Boolean> {
-	
+
 	public Process(int id, MemoryManagementUnit mmu, ProcessCycles processCycles) {
-		
+
 	}
-	
-	int	getId()  {
+
+	public int getId() {
 		return 0;
 	}
-	void	 setId(int id) {
-		
+
+	public void setId(int id) {
+
 	}
 
 	@Override

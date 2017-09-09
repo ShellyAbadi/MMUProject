@@ -3,17 +3,17 @@ package com.hit.processes;
 import java.util.List;
 
 public class ProcessCycles {
-	
+
 	public ProcessCycles(List<ProcessCycle> processCycles) {
-		
+
 	}
-	
+
 	public List<ProcessCycle> getProcessCycles() {
 		return null;
 	}
-	
-	void	 setProcessCycles(List<ProcessCycle> processCycles) {
-		
+
+	public void setProcessCycles(List<ProcessCycle> processCycles) {
+
 	}
 
 	@Override
